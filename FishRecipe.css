@@ -1,0 +1,95 @@
+
+body {
+	background-image:url(silverware.jpg);
+	padding:30px
+	}
+	
+h1 {
+	text-decoration: underline;
+	color: #A7A000;
+	font-family: sans-serif;
+	font-size:50px;
+	
+}
+
+h2 {
+	text-decoration:underline;
+	 color:#A7A000;
+	 background:#F0F0F0;
+	 font-family: sans-serif;
+	 font-weight: bold;
+	}
+	 
+.par1 {
+	color: #A7A000;
+	font-family:"Arial", Gadget, sans-serif;
+	font-size: 22px;
+	font-weight:bolder;
+	}
+
+header .par1 , h1 {
+	text-align:center;
+	background:#F0F0F0;
+	
+	}
+.par2 {
+	font-family:Georgia, "Times New Roman", Times, serif
+}
+.par2 b{ 
+	color:#9D8D6B; 
+	text-transform: uppercase;
+	 padding-right: 30px;
+	  padding-left: 30px;
+	  font-family:initial;
+	  
+	}
+	
+.par2 {
+	
+	font-size:21px;
+	font-weight: bold;
+	}
+	
+abbr {
+	text-decoration:underline;
+	}
+	
+ul {
+	list-style-image:url(fish_icon_24.png);
+	font-size:18px;
+	}
+ol { 
+	font-size:18px;
+	}
+.forth div {
+	padding-left:3px; 
+	font-style: italic;
+	font-size:20px;
+    
+	
+}
+
+
+
+.forth br {
+        line-height: 170%;
+     }
+	 
+a:link {
+    color: #A7A000;
+}
+
+a:visited {
+    color: green;
+}
+
+a:hover{
+	color:blue;
+}
+.forth div { 
+  
+    background-color: #FFFFA9;
+	margin-left:30px;
+	margin-right:70px;
+}
+
